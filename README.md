@@ -10,4 +10,6 @@ There will be an option to view a Class Report which will show all the informati
 The goal of the company is to deliver a high-end quality product as early as possible.
 
 Steps for set up 1.First set up the database  2.Run on Server 3.Add Subjects, classes and teachers 4.Assign subjects and teachers to classes 6.Add Student 7.Generate Report![image](https://user-images.githubusercontent.com/111715453/224457090-2d2929de-c041-4337-b7cc-6cc18cffd800.png)
-![image](https://user-images.githubusercontent.com/111715453/224457094-fb04157b-3c8c-408c-8575-298c0b67c770.png)
+![image](https://user-images.githubusercontent.com/111715453/224457126-52257c27-e651-49b6-aec2-dc0913335c15.png)
+![image](https://user-images.githubusercontent.com/111715453/224457140-a5c0b914-baba-437c-9a4f-28314fd0066a.png)
+
